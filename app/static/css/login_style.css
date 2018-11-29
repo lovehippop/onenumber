@@ -1,0 +1,23 @@
+#header_wrapper{
+    height: 80px;
+
+}
+.header{
+    width: 1192px;
+    height: 80px;
+    margin: 0 auto;
+    
+}
+.lg_logo{
+    float: left;
+    margin-top: 13px;
+}
+.lg_logo a{
+    display: block;
+    height: 55px;
+    width: 145px;
+    background-image: url(../images/loginlogo.jpg);
+}
+.header_right{
+    float: right;
+}
